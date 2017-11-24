@@ -10,4 +10,7 @@ We will also talk a bit about architecture, and specially the MVC architecture w
 * [Css](https://www.w3schools.com/css/default.asp)
 * [The MVC Architecture](https://github.com/StudentsAdministration/04_agenda/blob/master/MVC.pdf)
 
-
+## Exercises
+* [Warm Up]()
+* [Exercise 2]()
+* [Exercise 3]()
