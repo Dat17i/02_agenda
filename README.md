@@ -13,4 +13,4 @@ We will also talk a bit about architecture, and specially the MVC architecture w
 ## Exercises
 * [Warm Up](https://github.com/StudentsAdministration/04_exercise_warmup/blob/master/readme.md)
 * [Exercise 2](https://github.com/StudentsAdministration/04_exercise_2)
-* [Exercise 3](https://github.com/StudentsAdministration/04_exercise_3/blob/master/readme.md) <sup>_(exstra more advanced exercise)_</sup>
+* [Exercise 3](https://github.com/StudentsAdministration/04_exercise_3/blob/master/readme.md) <sub>_(exstra more advanced exercise)_</sub>
