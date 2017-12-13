@@ -21,3 +21,6 @@ _**TODO: exercise using Table**_
 _**TODO: exercise using div**_    
 
 * [Exercise 3](https://github.com/StudentsAdministration/04_exercise_3/blob/master/readme.md) <sub>_(exstra more advanced exercise)_</sub>
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
