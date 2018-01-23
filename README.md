@@ -3,7 +3,7 @@ Today you will primarily work on the View part of our application, meaning that 
 We will also talk a bit about architecture, and specially the MVC architecture which is used by the Spring Boot Framework.
 
 ## Snippets with basic code you will use today
-* [snippets](https://github.com/dat17v1/04_agenda/tree/master/snippets)
+* [snippets](https://github.com/StudentsAdministration/04_agenda/tree/master/snippets)
 
 ## Literature
 * [html](https://www.w3schools.com/html/)
