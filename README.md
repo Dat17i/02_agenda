@@ -8,6 +8,7 @@ We will also talk a bit about architecture, and specially the MVC architecture w
 ## Literature
 * [html](https://www.w3schools.com/html/)
 * [Css](https://www.w3schools.com/css/default.asp)
+  * [Css3 Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 * [The MVC Architecture](MVC.pdf)
 
 ## Exercises
