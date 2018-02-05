@@ -16,9 +16,9 @@ We will also talk a bit about architecture, and specially the MVC architecture w
 * [Exercise 2](https://github.com/dat17i/02_exercise_2)    
 
 * [w3schools html exercises](https://www.w3schools.com/html/exercise.asp) 
- * [Tables](https://www.w3schools.com/html/html_tables.asp)
+  * [Tables](https://www.w3schools.com/html/html_tables.asp)
 * [w3schools css exercises](https://www.w3schools.com/css/exercise.asp) 
- * [Tables](https://www.w3schools.com/css/css_table.asp)
+  * [Tables](https://www.w3schools.com/css/css_table.asp)
 * [Exercise 3](https://github.com/dat17i/02_exercise_3/blob/master/readme.md)
 
 _<div align="right">&copy; clbo@kea.dk</div>_
